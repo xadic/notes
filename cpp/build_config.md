@@ -35,6 +35,7 @@ make -j$(nproc)
 ./main ../data/version-RFB/RFB-320.bin ../data/version-RFB/RFB-320.param ../data/test.jpg
 ```
 
-####
-[Ultra-Light-Fast-Generic-Face-Detector-1MB](https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB)
-[C++ implemententation of Ultra-Light-Fast-Generic-Face-Detector-1MB with NCNN](https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB/tree/master/ncnn)
+#### 参考资料:
+1. [Ultra-Light-Fast-Generic-Face-Detector-1MB](https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB)
+
+2. [C++ implemententation of Ultra-Light-Fast-Generic-Face-Detector-1MB with NCNN](https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB/tree/master/ncnn)
